@@ -1,0 +1,30 @@
+.header{
+	background-image: url(../images/s.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.slider{
+	background-color:rgba(100,100,100,0.5);
+}
+.content{
+	padding: 120px 52px;
+}
+.content h1{
+	margin-bottom: 90px;
+}
+.content p{
+	margin-bottom: 80px;
+}
+.indi{
+	bottom: -16px;
+}
+.indi li{
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+}
+.carousel-indicators .active {
+	opacity: 1;
+	background-color: #422611;
+}
